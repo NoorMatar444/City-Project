@@ -21,7 +21,7 @@ const Contact = () => {
                   <div className="">
                     <h5 className="text-[22px] font-semibold font-primary leading-none">Chat to us</h5>
                     <p className="mb-4">Our friendly team is here to help.</p>
-                    <p className="font-semibold text-primary">contact@urbanbuild.com</p>
+                    <p className="font-semibold text-primary">contact@cityBuild.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-[20px]">

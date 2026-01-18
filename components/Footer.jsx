@@ -28,7 +28,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-4">
                 <RiMailFill className="text-accent text-xl " />
-                <p>contact@urbanbuild.com</p>
+                <p>contact@cityBuild.com</p>
               </li>
               <li className="flex items-center gap-4">
                 <RiPhoneFill className="text-accent text-xl " />
@@ -48,7 +48,7 @@ const Footer = () => {
       </div>
 
       <div className="container mx-auto py-12 xl:px-0 border-t border-border/10 flex flex-col gap-6 xl:flex-row items-center justify-between">
-        <p className="text-border">Copyright &copy; 2025 Urbanbuild. All rights reserved.</p>
+        <p className="text-border">Copyright &copy; 2025 cityBuild. All rights reserved.</p>
         <Socials containerStyles="flex gap-6 text-white" iconsStyles="hover:text-accent transition-all" />
       </div>
     </motion.footer>
