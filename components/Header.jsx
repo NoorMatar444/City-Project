@@ -2,7 +2,7 @@
 
 import { RiArrowUpLine } from "react-icons/ri"
 import { Link as ScrollLink } from "react-scroll"
-import Logo from "./Logo"
+
 import NavMobile from "./NavMobile"
 
 const links = [
@@ -33,7 +33,6 @@ const Header = () => {
     <header className="bg-primary py-4 sticky">
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
-          <Logo />
           <nav className="hidden xl:flex items-center gap-12">
             <ul className="flex">
               {links.map((link, i) => (

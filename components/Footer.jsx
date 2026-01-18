@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="py-16 xl:py-[100px] flex flex-col xl:flex-row gap-[60px] xl:gap-[30px]">
           <div className="flex-1">
             <Link href="/" className="flex mb-6">
-              <Image src="/assets/logo.svg" width={203} height={48} alt="" />
+              {/* <Image src="/assets/logo.svg" width={203} height={48} alt="" /> */}
             </Link>
             <p className="text-border max-w-[270px]">
               Building excellence since 1998. Certified general contractors specializing in
@@ -24,7 +24,7 @@ const Footer = () => {
             <ul className="flex flex-col ">
               <li className="flex items-center gap-4">
                 <RiMapPin2Fill className="text-accent text-xl " />
-                <p>1250 Brickstone Ave,US</p>
+                <p>5 El Maha Tower, Reem Island,ABU Dubai,UAE</p>
               </li>
               <li className="flex items-center gap-4">
                 <RiMailFill className="text-accent text-xl " />
@@ -32,7 +32,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-4">
                 <RiPhoneFill className="text-accent text-xl " />
-                <p>+1 (555) 000-0000</p>
+                <p>+971 (555) 000-0000</p>
               </li>
             </ul>
           </div>

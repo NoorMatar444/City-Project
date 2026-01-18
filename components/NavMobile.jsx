@@ -7,7 +7,6 @@ import { useState } from "react"
 import { RiMenu3Fill } from 'react-icons/ri'
 
 import { Link as ScrollLink } from "react-scroll"
-import Logo from "./Logo"
 import Socials from "./Socials"
 
 const links = [
@@ -45,7 +44,7 @@ const NavMobile = () => {
             <SheetContent className='bg-primary border-none text-white'>
                 <div className="flex flex-col pt-16 pb-8 items-center justify-between h-full">
                     <SheetHeader>
-                        <SheetTitle><Logo /></SheetTitle>
+                        
                         <SheetDescription className="sr-only">
 
                         </SheetDescription>

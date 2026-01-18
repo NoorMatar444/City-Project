@@ -31,7 +31,7 @@ const Contact = () => {
                   <div className="">
                     <h5 className="text-[22px] font-semibold font-primary leading-none">Office</h5>
                     <p className="mb-4">Come and say hello at our office</p>
-                    <p className="font-semibold text-primary">1250 Brickstone Ave, Dallas,TX75201,USA</p>
+                    <p className="font-semibold text-primary">5 El Maha Tower, Reem Island,ABU Dubai,UAE</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-[20px]">
@@ -41,7 +41,7 @@ const Contact = () => {
                   <div className="">
                     <h5 className="text-[22px] font-semibold font-primary leading-none">Phone</h5>
                     <p className="mb-4">Mon-Fri from  8am to 5pm</p>
-                    <p className="font-semibold text-primary">+1 (555) 000-0000</p>
+                    <p className="font-semibold text-primary">+971 (555) 000-0000</p>
                   </div>
                 </div>
               </div>
